@@ -19,13 +19,16 @@ This is a web application built with React.js and Three.js libraries, along with
 
 ## Built With
 
-React.js
-Three.js
-GSAP
-Valtio
-Leva
-TailwindCSS
-Web Vitals
+## Built With
+
+* [React.js](https://reactjs.org/)
+* [Three.js](https://threejs.org/)
+* [GSAP](https://greensock.com/gsap/)
+* [Valtio](https://github.com/pmndrs/valtio)
+* [Leva](https://github.com/pmndrs/leva)
+* [TailwindCSS](https://tailwindcss.com/)
+* [Web Vitals](https://web.dev/vitals/)
+
 
 ## Getting Started
 
