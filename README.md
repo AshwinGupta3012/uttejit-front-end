@@ -13,7 +13,7 @@
 
 ## About The Project
 
-![Screen Shot](https://imgur.com/a/LT0mJCx)
+![Screen Shot](./public/readme.png)
 
 This is a web application built with React.js and Three.js libraries, along with other dependencies like GSAP, Valtio, and Leva. It uses the React Router to handle client-side routing and is bundled with Webpack using the React Scripts package. The project uses various modern web development techniques like Postprocessing, TailwindCSS, and Web Vitals to optimize performance and user experience.
 
