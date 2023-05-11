@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+    font-family: GTFlexaReg;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.bw {
+  border: 2px solid white;
+}
+
+img {  
+  user-drag: none;  
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+
+/* For Webkit-based browsers */
+::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* For Firefox-based browsers */
+  ::-moz-scrollbar {
+    display: none;
+  }
+
+  @font-face {
+    font-family: 'GTFlexaReg';
+    src: url('./_font/GTFlexaMono-Regular.otf') format('opentype');
+  }
+  
+  @font-face {
+    font-family: 'GTFlexaLight';    
+    src: url('./_font/GTFlexaMono-Light.otf') format('opentype');
+  }
+  
+
+  @font-face {
+    font-family: 'FormulaReg';    
+    src: url('./_font/Formula1-Regular.otf') format('opentype');
+  }
+  
+  @font-face {
+    font-family: 'FormulaBold';    
+    src: url('./_font/Formula1-Bold1.otf') format('opentype');
+  }
